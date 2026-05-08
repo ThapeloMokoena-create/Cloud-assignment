@@ -52,4 +52,4 @@ jobs:
           app-name: 'Thapelo-webapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_660DAC182CEC4A5C95552CDAFC78B3D1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2D0BBD0C509248C5937CDF8E2AC36FA5 }}
